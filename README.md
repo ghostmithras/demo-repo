@@ -1,3 +1,3 @@
 # Demo
 
-Description of repository/project
+Description of repository/project.
